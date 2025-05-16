@@ -1,6 +1,6 @@
 # 🔐 AWS Security & Monitoring Lab Project
 
-This project is part of my coursework at George Brown College, where I completed a hands-on lab titled **"Cloud Security Builder: Securing and Monitoring Resources with AWS"**. The lab involved securing, monitoring, and configuring cloud infrastructure using various AWS services.
+ **"Cloud Security Builder: Securing and Monitoring Resources with AWS"**. The lab involved securing, monitoring, and configuring cloud infrastructure using various AWS services.
 
 ## 📁 Overview
 
