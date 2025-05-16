@@ -61,15 +61,37 @@ The lab was divided into four phases, each focusing on different aspects of AWS 
   - ![image](https://github.com/user-attachments/assets/004c8cdb-c602-4605-a909-52f19849963d) ![image](https://github.com/user-attachments/assets/378b6367-c9a2-4317-814d-8774a5406b61)
   - ![image](https://github.com/user-attachments/assets/b3ed06dd-534e-495a-9cf6-a47721b8b2d7) ![image](https://github.com/user-attachments/assets/a829f389-45ac-4c95-93d9-5e7381a0bf5a)
 
-- Implemented envelope encryption with KMS for local files.
 
 ---
 
 ## 📊 Phase 4: Monitoring and Logging
 
 - Enabled **CloudTrail** to track S3 API events.
+- ![image](https://github.com/user-attachments/assets/499fa7c3-e7cd-459b-8712-e91ae18004c4)
+- ![image](https://github.com/user-attachments/assets/de559c5d-e4d2-4bb0-8c22-3302efcf449c)
+- ![image](https://github.com/user-attachments/assets/831409e1-c5de-4382-9970-0e9d08423b26)
+  
 - Configured **CloudWatch Agent** and created a **CloudWatch Alarm** to detect SSH brute-force attempts.
+- ![image](https://github.com/user-attachments/assets/a98b2d83-033f-4b7c-98a5-48f0067d37c7) ![image](https://github.com/user-attachments/assets/7fc549c4-e8cc-4983-b73c-f2affe4a3a7d)
+- ![image](https://github.com/user-attachments/assets/76493cbe-ff91-48b0-b5fa-f4bc900fe224) ![image](https://github.com/user-attachments/assets/005082e9-bf18-4354-acb9-dd31d3f6a048)
+- ![image](https://github.com/user-attachments/assets/5272e0f2-5547-4b4b-8ad8-0efd5c960785) ![image](https://github.com/user-attachments/assets/5e0ec493-032e-41fa-929b-4fe7dcbfb357)
+- Cloudwatch Alarm
+- ![image](https://github.com/user-attachments/assets/329238f9-f3e1-4715-99f1-8ef8b60b422b) ![image](https://github.com/user-attachments/assets/e1fe2044-466f-4e95-9805-41e99977d5dc)
+- ![image](https://github.com/user-attachments/assets/794de50c-e9d1-4b16-9204-8c1f588fa765) ![image](https://github.com/user-attachments/assets/9bd3dcd8-7218-48c0-b56a-0e820d92e334)
+
+
 - Used **AWS Config** to detect and auto-remediate non-compliant S3 bucket logging settings.
+- ![image](https://github.com/user-attachments/assets/56e5dc97-7357-46bf-9c34-276bdcbbbe09) ![image](https://github.com/user-attachments/assets/32cc86e9-7514-4158-842f-3b5bc63f395f)
+- ![image](https://github.com/user-attachments/assets/831f7984-a1de-4e44-b793-f1893e1d3bfd) ![image](https://github.com/user-attachments/assets/d2c8fee8-d067-40ba-a2c2-c01ef4a0f33a)
+- ![image](https://github.com/user-attachments/assets/d64df260-2bc6-4497-9aaa-7d038367aefa) ![image](https://github.com/user-attachments/assets/e2e9dbfb-69f8-43c1-abbd-c2f8373a6c83)
+- ![image](https://github.com/user-attachments/assets/92efb417-f837-41b5-8a14-b6b259d3de5d) 
+
+
+
+
+
+
+
 
 ---
 
